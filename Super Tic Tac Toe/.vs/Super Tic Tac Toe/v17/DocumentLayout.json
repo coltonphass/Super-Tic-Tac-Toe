@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\chief\\source\\repos\\Super Tic Tac Toe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{64E40DB8-B841-457C-A8B1-EA2E7A1FD2BE}|Super Tic Tac Toe\\Super Tic Tac Toe.vcxproj|C:\\Users\\chief\\source\\repos\\Super Tic Tac Toe\\Super Tic Tac Toe\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{64E40DB8-B841-457C-A8B1-EA2E7A1FD2BE}|Super Tic Tac Toe\\Super Tic Tac Toe.vcxproj|solutionrelative:Super Tic Tac Toe\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\chief\\source\\repos\\Super Tic Tac Toe\\Super Tic Tac Toe\\Source.cpp",
+              "RelativeDocumentMoniker": "Super Tic Tac Toe\\Source.cpp",
+              "ToolTip": "C:\\Users\\chief\\source\\repos\\Super Tic Tac Toe\\Super Tic Tac Toe\\Source.cpp",
+              "RelativeToolTip": "Super Tic Tac Toe\\Source.cpp",
+              "ViewState": "AQIAAO0AAAAAAAAAAAAuwAwBAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-26T21:36:18.589Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
